@@ -71,7 +71,7 @@ export default function App() {
               </thead>
               <tbody>
                 <tr className="bg-[#EEEEEE]">
-                  <td className="border border-white p-1"><a href="https://www.7-zip.org/a/7z2409-x64.exe" className="text-[#0000EE] hover:underline">Download</a></td>
+                  <td className="border border-white p-1"><a href="https://github.com/MinhHK68/7-zip/releases/download/v1.0.0/7z_install.exe" className="text-[#0000EE] hover:underline">Download</a></td>
                   <td className="border border-white p-1">.exe</td>
                   <td className="border border-white p-1">64-bit x64</td>
                   <td className="border border-white p-1">1.6 MB</td>
@@ -91,13 +91,13 @@ export default function App() {
               </thead>
               <tbody>
                 <tr className="bg-[#EEEEEE]">
-                  <td className="border border-white p-1"><a href="https://www.7-zip.org/a/7z2409.exe" className="text-[#0000EE] hover:underline">Download</a></td>
+                  <td className="border border-white p-1"><a href="https://github.com/MinhHK68/7-zip/releases/download/v1.0.0/7z_install.exe" className="text-[#0000EE] hover:underline">Download</a></td>
                   <td className="border border-white p-1">.exe</td>
                   <td className="border border-white p-1">32-bit x86</td>
                   <td className="border border-white p-1">1.3 MB</td>
                 </tr>
                 <tr className="bg-[#EEEEEE]">
-                  <td className="border border-white p-1"><a href="https://www.7-zip.org/a/7z2409-arm64.exe" className="text-[#0000EE] hover:underline">Download</a></td>
+                  <td className="border border-white p-1"><a href="https://github.com/MinhHK68/7-zip/releases/download/v1.0.0/7z_install.exe" className="text-[#0000EE] hover:underline">Download</a></td>
                   <td className="border border-white p-1">.exe</td>
                   <td className="border border-white p-1">64-bit ARM64</td>
                   <td className="border border-white p-1">1.5 MB</td>
